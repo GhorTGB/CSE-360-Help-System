@@ -1,0 +1,3 @@
+admin,pass,ami@asu.edu,admin
+kar,123,kar@gmail.com,Student
+get,123,get@asu.edu,Instructor
